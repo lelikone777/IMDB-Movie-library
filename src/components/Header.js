@@ -38,7 +38,7 @@ const Header = () => {
                         </span>
 
                         <span className='text-xl hidden sm:inline'>
-                            И их описание и рейтиги
+                            api
                         </span>
 
                     </h2>
