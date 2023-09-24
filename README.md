@@ -1,38 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+https://movie-gallery-next13-latest.vercel.app/
 
-## Getting Started
+![Desktop preview](public/desktop.png)
+![Mobile preview](public/mobile.png)
+Представляю IMDB Clone (Next.js 13) - Ваш идеальный спутник в мире кино!
 
-First, run the development server:
+Почувствуйте волшебство большого экрана, как никогда раньше, с этим современным клоном IMDB, созданным мной на Next.js 13. Я использовал мощь базы данных TMBD, чтобы предоставить вам неповторимое кинематографическое путешествие. Исследуйте мир фильмов и телешоу легко и удобно благодаря стильному и интуитивному пользовательскому интерфейсу, созданному мной.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Особенности:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Интеграция с базой данных TMBD: Получите доступ к обширному сокровищу информации о фильмах и телешоу прямо у вас под рукой. Моя интеграция с базой данных TMBD обеспечивает актуальную информацию о последних релизах, подробностях о актерах, обзорах и многом другом.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Стиль Tailwind CSS: Подготовьтесь к визуальному восхищению благодаря потрясающему дизайну, созданному мной. IMDB Clone стилизован с помощью современного и универсального фреймворка Tailwind CSS, создавая визуально привлекательный и адаптивный пользовательский опыт.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Мощный поиск и фильтры: Найдите свои любимые фильмы и телешоу легко с функцией поиска. Вы также можете фильтровать фильмы по рейтингу и дате выпуска, чтобы открывать новые шедевры и классику.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+С IMDB Clone (Next.js 13), я переосмыслил ваше взаимодействие с миром кино. Открывайте, обзор, и погружайтесь в мир развлечений, как никогда раньше. Это больше, чем просто клон известного ресурса, это ваш кинематографический спутник.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+================================================================================================
 
-## Learn More
+Introducing IMDB Clone (Next.js 13) - Your Ultimate Film Companion!
 
-To learn more about Next.js, take a look at the following resources:
+Experience the magic of the silver screen like never before with this cutting-edge IMDB Clone, crafted by me on Next.js 13. I've harnessed the power of the TMBD database to bring you an unparalleled cinematic journey. Explore the world of movies and TV shows with ease, thanks to the sleek and intuitive user interface I've designed.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Key Features:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+TMBD Database Integration: Access a vast treasure trove of movie and TV show information right at your fingertips. My integration with the TMBD database ensures that you stay up-to-date with the latest releases, cast details, reviews, and more.
 
-## Deploy on Vercel
+Tailwind CSS Styling: Prepare to be visually captivated by the stunning design I've crafted. IMDB Clone is styled with the modern and versatile Tailwind CSS framework, creating a visually appealing and responsive user experience.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Powerful Search and Filters: Find your favorite movies and TV shows effortlessly with the search feature. You can also filter movies by rating and release date to discover new gems and classics alike.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+With IMDB Clone (Next.js 13), I've redefined how you interact with the world of cinema. Discover, review, and immerse yourself in the world of entertainment like never before. It's more than just a clone; it's your cinematic companion."
